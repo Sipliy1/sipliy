@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    }
+    #wropper{
+    background-color: black;
+    width: 700px;
+    margin: auto;
+    font-size: 24px;
+    }
+    h1 {
+        color: #fff;
+        text-align: center;
+    }
+    form {
+        color: #fff;
+    }
